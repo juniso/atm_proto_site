@@ -14,11 +14,11 @@
     position: relative;
     left: 10%;
     right: 10%;
+    padding-top: 10px;
 }
 .button_text{
     font-size:30px;
     color:#fff;
-    padding-top: 5%;
 }
 .birthday{
     margin: 20px;
