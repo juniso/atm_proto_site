@@ -1,0 +1,30 @@
+.wrapper{
+    width:100%;
+    background-color: #081d5a;
+    height:100vh;
+}
+.atm_button{
+    width: 300px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #999;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    display:inline-block;
+    position: relative;
+    left: 10%;
+    right: 10%;
+}
+.button_text{
+    font-size:30px;
+    color:#fff;
+    padding-top: 5%;
+}
+.birthday{
+    margin: 20px;
+    width: 50%;
+    margin: auto;
+}
+.white{
+    color:#fff;
+}
